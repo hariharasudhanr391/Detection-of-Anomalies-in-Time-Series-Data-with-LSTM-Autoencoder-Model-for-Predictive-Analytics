@@ -1,4 +1,4 @@
-# Time Series Anomaly Detection via LSTM Autoencoders: A Predictive Analytics Framework
+# Time Series Anomaly Detection via LSTM Autoencoder: A Predictive Analytics Framework
 
 # List of Contents
 
